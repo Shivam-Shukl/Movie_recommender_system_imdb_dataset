@@ -17,7 +17,7 @@ A content-based movie recommendation system built using NLP techniques and cosin
 
 📌 Below is a visual example showing the recommendations when searching for the movie **"Batman Begins"**:
 
-<img src="images/0db6bb92-83d6-41b4-8dc9-3724e7f1e034.png" width="800"/>
+<img src="https://github.com/user-attachments/assets/7853e811-c9e6-4e69-901b-b482b9b49cad" width="800"/>
 
 ➡️ The system recommends similar movies based on content like **Spider-Man 3**, **Spider-Man 2**, etc.
 
@@ -27,7 +27,7 @@ A content-based movie recommendation system built using NLP techniques and cosin
 
 📌 Here's a snapshot of the dropdown interface to select any movie:
 
-<img src="images/c3ff8307-942e-46a1-b416-cda24f66a5a5.png" width="600"/>
+<img src="https://github.com/user-attachments/assets/f2a147ec-4090-43f9-b073-ccfe0b367618" width="600"/>
 
 ---
 
