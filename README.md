@@ -1,5 +1,5 @@
 
-## 🎬 Movie Recommender System 🔍
+## 🎬 Movie Recommender System 
 
 A content-based movie recommendation system built using NLP techniques and cosine similarity.
 
@@ -13,7 +13,7 @@ A content-based movie recommendation system built using NLP techniques and cosin
 
 ---
 
-### 🚀 Recommendation Demo
+###  Recommendation Demo
 
 📌 Below is a visual example showing the recommendations when searching for the movie **"Batman Begins"**:
 
@@ -23,7 +23,7 @@ A content-based movie recommendation system built using NLP techniques and cosin
 
 ---
 
-### 🎥 Interface Preview
+###  Interface Preview
 
 📌 Here's a snapshot of the dropdown interface to select any movie:
 
