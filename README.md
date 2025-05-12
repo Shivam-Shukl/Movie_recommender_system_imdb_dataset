@@ -3,7 +3,7 @@
 
 A content-based movie recommendation system built using NLP techniques and cosine similarity.
 
-### 🔧 Features Implemented:
+###  Features Implemented:
 
 * Data preprocessing and cleaning
 * Feature extraction from genres, cast, crew, etc.
